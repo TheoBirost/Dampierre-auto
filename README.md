@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# Dampierre Auto
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Projet de site e-commerce pour l’entreprise **Dampierre Auto**.
+L’objectif est de proposer une boutique en ligne moderne et responsive permettant aux clients de consulter et d’acheter des pièces automobiles, accessoires et services.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🛠️ Technologies utilisées
+
+* **Frontend** : Vue.js 3 avec Vite
+* **Routing** : Vue Router
+* **Langage** : JavaScript
+* **Gestion de versions** : Git & GitHub
+
+---
