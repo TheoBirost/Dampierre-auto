@@ -1,0 +1,11 @@
+<script setup lang="ts">
+
+</script>
+
+<template>
+  <section class="bg-gray-100 py-16 px-6"> <div class="max-w-4xl mx-auto text-center "> <h1 class="text-3xl leading-relaxed text-[#363839] font-medium tracking-wide mb-12"> Livraison rapide, Paiement sécurisé, Grands produits qualitatifs. </h1> <div class="flex flex-row items-center justify-center gap-24"> <div class="w-24 h-24 flex items-center justify-center bg-[#a3e635]/10 rounded-full mb-6"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-16 h-16 text-[#a3e635] lucide lucide-truck-icon lucide-truck"><path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"/><path d="M15 18H9"/><path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"/><circle cx="17" cy="18" r="2"/><circle cx="7" cy="18" r="2"/></svg> </div> <div class="w-24 h-24 flex items-center justify-center bg-[#a3e635]/10 rounded-full mb-6"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-16 h-16 text-[#a3e635] lucide lucide-credit-card-icon lucide-credit-card"><rect width="20" height="14" x="2" y="5" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/></svg> </div> <div class="w-24 h-24 flex items-center justify-center bg-[#a3e635]/10 rounded-full mb-6"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-16 h-16 text-[#a3e635] lucide lucide-shield-check-icon lucide-shield-check"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg> </div> </div> </div> </section>
+</template>
+
+<style scoped>
+
+</style>
